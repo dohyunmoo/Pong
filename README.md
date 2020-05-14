@@ -1,2 +1,2 @@
-# Simple_Pong
-Simple pong game using Python and Pygame
+# Pong
+Pong game using Python and Pygame
