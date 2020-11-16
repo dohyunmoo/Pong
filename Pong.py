@@ -9,6 +9,8 @@ player2 = C.Player()
 player1.x = int(C.screenwidth - player1.width)
 player2.x = 0
 
+C.win
+
 while C.run:
     pygame.time.delay(10)
 
